@@ -1,1 +1,1 @@
-Hi, please read me
+Please read me
